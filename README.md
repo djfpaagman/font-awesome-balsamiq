@@ -2,12 +2,12 @@
 
 Rendered png [Font Awesome](http://fontawesome.io) icons for use with wireframing tool [Balsamiq](http://balsamiq.com/).
 
+![](http://springest-monosnap.s3-website-eu-west-1.amazonaws.com/ieo9bzmpmj1wctyvvbxn.png)
+
 ## Install
 1. [Download the pack](https://github.com/djfpaagman/font-awesome-balsamiq/releases)
 2. Move the icons in your `Documents/My Balsamiq/assets` folder
 3. The icons are now available under 'Account Assets' in Balsamiq
-
-![](http://springest-monosnap.s3-website-eu-west-1.amazonaws.com/ieo9bzmpmj1wctyvvbxn.png)
 
 ## Rendering
 I've rendered the icons using https://github.com/odyniec/font-awesome-to-png. The steps I took:
