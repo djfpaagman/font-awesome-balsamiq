@@ -6,8 +6,10 @@ Rendered png [Font Awesome](http://fontawesome.io) icons for use with wireframin
 
 ## Install
 1. [Download the pack](https://github.com/djfpaagman/font-awesome-balsamiq/releases)
-2. Move the icons in your `Documents/My Balsamiq/assets` folder
+2. Move the icons in your `Documents/Balsamiq Mockups/assets` folder
 3. The icons are now available under 'Account Assets' in Balsamiq
+
+More information about 'Account Assets' can be found in the [Balsamiq documentation](http://support.balsamiq.com/customer/portal/articles/200694).
 
 ## Rendering
 I've rendered the icons using https://github.com/odyniec/font-awesome-to-png. The steps I took:
