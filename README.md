@@ -4,21 +4,13 @@ Rendered png [Font Awesome](http://fontawesome.io) icons for use with wireframin
 
 ![](http://springest-monosnap.s3-website-eu-west-1.amazonaws.com/ieo9bzmpmj1wctyvvbxn.png)
 
-## Install
-1. [Download the pack](https://github.com/djfpaagman/font-awesome-balsamiq/releases)
-2. Move the icons in your `Documents/Balsamiq Mockups/assets` folder
-3. The icons are now available under 'Account Assets' in Balsamiq
-
-More information about 'Account Assets' can be found in the [Balsamiq documentation](http://support.balsamiq.com/customer/portal/articles/200694).
-
-## Rendering
-I've rendered the icons using https://github.com/odyniec/font-awesome-to-png. The steps I took:
-
-1. Install pip (`brew install pip`)
-2. Install PIL (`sudo pip install PIL`)
-3. Download [font-awesome-to-png.py](https://github.com/odyniec/font-awesome-to-png)
-4. Download [fontawesome-webfont.ttf](https://github.com/FortAwesome/Font-Awesome/blob/master/font/fontawesome-webfont.ttf)
-5. Run the script (`python font-awesome-to-png.py --filename icon_ --size 128 ALL`)
+## Installation
+1. Set up your [Account Assets Folder](http://support.balsamiq.com/customer/portal/articles/200694) first, if it's already set up you can skip this step:
+	* On Windows and Linux, create a directory called `Balsamiq Mockups` inside your `Documents` directory. Inside the new `Balsamiq Mockups` directory, create a new directory called `assets`.
+	* On Mac OS X, create a folder called `Balsamiq Mockups` inside your `Documents` folder. Inside the new `Balsamiq Mockups` folder, create a new folder called `assets`.
+1. [Download the pack](https://github.com/djfpaagman/font-awesome-balsamiq/releases) and unzip the files.
+2. Move the icons from the unzipped `icons` folder to your asset folder (created in step 1).
+3. After you restart Balsamiq, the icons will be available under 'Account Assets' when you want to select an icon in the Icon Library. They are also searchable through their official Font Awesome names.
 
 ## License
-All licenses that apply to Font Awesome apply to this project. See [Font Awesome License page](http://fortawesome.github.io/Font-Awesome/license/).
+All licenses that apply to Font Awesome apply to this project. See the [Font Awesome License page](http://fortawesome.github.io/Font-Awesome/license/).
