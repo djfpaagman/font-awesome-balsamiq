@@ -12,5 +12,9 @@ Rendered png [Font Awesome](http://fontawesome.io) icons for use with wireframin
 2. Move the icons from the unzipped `icons` folder to your asset folder (created in step 1).
 3. After you restart Balsamiq, the icons will be available under 'Account Assets' when you want to select an icon in the Icon Library. They are also searchable through their official Font Awesome names.
 
+## Thanks
+Special thanks to https://github.com/odyniec/font-awesome-to-png for creating a script that makes it easy to render images from the Font Awesome font.
+
 ## License
 All licenses that apply to Font Awesome apply to this project. See the [Font Awesome License page](http://fortawesome.github.io/Font-Awesome/license/).
+
