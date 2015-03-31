@@ -14,9 +14,7 @@ Rendered png [Font Awesome](http://fontawesome.io) icons for use with wireframin
 3. After you restart Balsamiq, the icons will be available under 'Account Assets' when you want to select an icon in the Icon Library. They are also searchable through their official Font Awesome names.
 
 ### Balsamiq 3.x.x
-1. [Download the pack](https://github.com/djfpaagman/font-awesome-balsamiq/releases) and unzip the files.
-2. In the **Project** menu, go to **Import** > **Assets**. Navigate to the unzipped `icons` folder and select all icon files for import.
-3. Icons are available immediately.
+The [release of Balsamiq 3](http://support.balsamiq.com/customer/portal/articles/1844131#icons) comes with built-in support for Font Awesome, so you no longer need to install the icons seperately. The people at Balsamiq wrote a nice blog post about [why they switched](http://blogs.balsamiq.com/product/2015/03/31/font-awesome/) if you want to know more.  By integrating into Balsamiq directly this project has become obsolete. Thanks for all the support :raised_hands:.
 
 ## Thanks
 Special thanks to https://github.com/odyniec/font-awesome-to-png for creating a script that makes it easy to render images from the Font Awesome font.
