@@ -16,6 +16,10 @@ Rendered png [Font Awesome](http://fontawesome.io) icons for use with wireframin
 ### Balsamiq 3.x.x
 The [release of Balsamiq 3](http://support.balsamiq.com/customer/portal/articles/1844131#icons) comes with built-in support for Font Awesome, so you no longer need to install the icons seperately. The people at Balsamiq wrote a nice blog post about [why they switched](http://blogs.balsamiq.com/product/2015/03/31/font-awesome/) if you want to know more.  By integrating into Balsamiq directly this project has become obsolete. Thanks for all the support :raised_hands:.
 
+## Extracting SVG from font files
+We have added `bin/gen-fa-4.4-svg.pl` which was used to convert
+font glyphs to svg files which were then converted to `png` images.
+
 ## Thanks
 Special thanks to https://github.com/odyniec/font-awesome-to-png for creating a script that makes it easy to render images from the Font Awesome font.
 
